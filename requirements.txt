@@ -85,7 +85,7 @@ tfp-nightly==0.9.0.dev20191101
 tornado==6.0.4
 traitlets==4.3.3
 txt2tags==3.7
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
